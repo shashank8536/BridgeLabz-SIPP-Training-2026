@@ -1,3 +1,5 @@
+package Level1;
+
 public class AvgMarks {
     public static void main(String[] args) {
         int maths = 94;
